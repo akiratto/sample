@@ -1,0 +1,95 @@
+{
+  "configVersion": 1,
+  "timestamp": 1636678429284,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.16203bebe89a49989bea.js",
+        "/main-es5.16203bebe89a49989bea.js",
+        "/manifest.webmanifest",
+        "/polyfills-es2015.f8f8e86a81c020af9b6a.js",
+        "/polyfills-es5.bdc9179a4229e722a8af.js",
+        "/runtime-es2015.69d891dfe841da4f1303.js",
+        "/runtime-es5.69d891dfe841da4f1303.js",
+        "/styles.c6b071fe975f4a83236f.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-16x16.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-32x32.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/mstile-150x150.png",
+        "/assets/icons/safari-pinned-tab.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "842bdceef25f5740f200de22180141847b2f0b80",
+    "/assets/icons/icon-144x144.png": "58b1834a019ac1717860017605a8aea507d357b5",
+    "/assets/icons/icon-152x152.png": "40fbef2fb5ccb2b372fc999b8b85ce140d0941cd",
+    "/assets/icons/icon-16x16.png": "f29dd83494bacad509ab9209d0fe3bac590372f3",
+    "/assets/icons/icon-192x192.png": "87928464dba1d7c788c9f6de956f99947470a359",
+    "/assets/icons/icon-32x32.png": "f2e0a73c6d735cc1e3c2cb1ffa964b684326cdbf",
+    "/assets/icons/icon-384x384.png": "58fd074eca66c6223ad217c1c0c7d06880a08e53",
+    "/assets/icons/icon-512x512.png": "751e451c3df49031d4e76c4560eff56f1716a002",
+    "/assets/icons/icon-72x72.png": "58d6745b5ff885601c61c11e1775fc7b5f045e7f",
+    "/assets/icons/icon-96x96.png": "6ca29999af98f0cf163cde2ee82af440f8c7bac6",
+    "/assets/icons/mstile-150x150.png": "97db6b63f6214367fa49e266add632bc8af3f5a4",
+    "/assets/icons/safari-pinned-tab.svg": "03d482e5aa20cb76842fcf984d28cd65c0423987",
+    "/favicon.ico": "a2eaf72bbac9bea51761890d3665734f0bc390f4",
+    "/index.html": "2fe27a4ee333575c88f654c2c3ba9c8e3a6430a2",
+    "/main-es2015.16203bebe89a49989bea.js": "36d465d6d497fc5306aad5276d881c31219f4bab",
+    "/main-es5.16203bebe89a49989bea.js": "13ba1bc9696c570ac8b9d9b5bddcec1c270c990c",
+    "/manifest.webmanifest": "51807fd77aff1ac5c3b6bb2c06722f4e20516182",
+    "/polyfills-es2015.f8f8e86a81c020af9b6a.js": "c3c6a3a3024187ef6cb21aeed3103b9f9fc667a9",
+    "/polyfills-es5.bdc9179a4229e722a8af.js": "99bb0866a5a0502c54667893764f95a24bbd8847",
+    "/runtime-es2015.69d891dfe841da4f1303.js": "dd223bb9519e4a0ff923e348024c8f7c214a78ea",
+    "/runtime-es5.69d891dfe841da4f1303.js": "dd223bb9519e4a0ff923e348024c8f7c214a78ea",
+    "/styles.c6b071fe975f4a83236f.css": "82a9190a816cc15d404a33ae5aebe070d0626d8f"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
